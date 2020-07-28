@@ -3,7 +3,7 @@
 I am Ali Özkan. I have been developing Web Applications mainly with NodeJS and Typescript since 2015. I have had several experiences as Full Stack, Backend and Frontend Developer in multiple companies and independent projects.
 
 #### Technologies 🔥
-|<img src="./img/react.png" alt="React" width=100> | <img src="img/ex.png" alt="Express" width=100> | <img src="img/nodejs.png" alt="NodeJs" width=100> | <img src="img/ts.png" alt="Typescript" width=100> |
+|<img src="/img/react.png" alt="React" width=100> | <img src="img/ex.png" alt="Express" width=100> | <img src="img/nodejs.png" alt="NodeJs" width=100> | <img src="img/ts.png" alt="Typescript" width=100> |
 |:---:|:---:|:---:|:---:|
 
 #### Learning 📕
