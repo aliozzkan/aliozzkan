@@ -7,7 +7,7 @@ I am Ali Özkan. I have been developing Web Applications mainly with NodeJS and 
 |:---:|:---:|:---:|:---:|
 
 #### My Frameworks 🔨
-|<a href="https://github.com/aliozzkan/aliozzkan-react-framework"><img src="https://lh3.googleusercontent.com/proxy/ppyaL1To3J5nUMb3fAr7iRV2YnNB05aN53wiVpFZcR5wa-qyZCXw2I4cp5rWQcgKckoqnmAx" alt="React" width=100> <br/> AliOzzkan-React-Framework</a> |
+|<a href="https://github.com/aliozzkan/aliozzkan-react-framework"><img src="https://lh3.googleusercontent.com/proxy/ppyaL1To3J5nUMb3fAr7iRV2YnNB05aN53wiVpFZcR5wa-qyZCXw2I4cp5rWQcgKckoqnmAx" alt="React" width=100> <br/> <p>AliOzzkan-React-Framework</p> <img src="https://img.shields.io/github/stars/aliozzkan/aliozzkan-react-framework?style=social" alt="Stars"/></a>  |
 |:---:|
 
 
