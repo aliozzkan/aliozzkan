@@ -3,17 +3,9 @@
 I am Ali Özkan. I have been developing Web Applications mainly with NodeJS and Typescript since 2015. I have had several experiences as Full Stack, Backend and Frontend Developer in multiple companies and independent projects.
 
 #### Technologies 🔥
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React" width=100> | <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" alt="Express" width=100> | <img src="https://thekenyandev.com/static/nodejs-ea6d8fe57ed02c773ad10ca3003b2451.png" alt="NodeJs" width=100> | <img src="https://pbs.twimg.com/profile_images/1149708719178993664/3Hb8W4aX_400x400.png" alt="Typescript" width=100> |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" width=100> |  <img src="https://logos-world.net/wp-content/uploads/2023/08/React-Logo.png" alt="NestJs" width=100> | <img src="https://nestjs.com/img/logo-small.svg" alt="NestJs" width=100> | <img src="https://d2ooyrflu7lhqd.cloudfront.net/exop_io_ece1e91d04.jpeg" alt="React Native Expo" width=100> | <img src="https://d2ooyrflu7lhqd.cloudfront.net/exop_io_ece1e91d04.jpeg" alt="React Native Expo" width=100> |
 |:---:|:---:|:---:|:---:|
 
-#### My Frameworks 🔨
-|<a href="https://github.com/aliozzkan/aliozzkan-react-framework"><img src="https://raw.githubusercontent.com/aliozzkan/aliozzkan-react-framework/master/src/logo.png" alt="React" width=100> <br/> <p>AliOzzkan-React-Framework</p> <img src="https://img.shields.io/github/stars/aliozzkan/aliozzkan-react-framework?style=social" alt="Stars"/></a>  |
-|:---:|
-
-
-#### Learning 📕
-| <img src="https://i1.wp.com/www.muratoner.net/wp-content/uploads/2019/01/flutterlogo.png?fit=800%2C800&ssl=1" alt="Flutter" width=100> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue" width=100> |
-|:---:|:---:|
 
 #### Youtube  🎬
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=5JgXDB9V0h0" target="_blank"><img src="http://img.youtube.com/vi/5JgXDB9V0h0/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=7th4M6oqOik" target="_blank"><img src="http://img.youtube.com/vi/7th4M6oqOik/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a> |
