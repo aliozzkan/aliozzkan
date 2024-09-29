@@ -3,7 +3,7 @@
 I am Ali Özkan. I have been developing Web Applications mainly with NodeJS and Typescript since 2015. I have had several experiences as Full Stack, Backend and Frontend Developer in multiple companies and independent projects.
 
 #### Technologies 🔥
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" width=100> |  <img src="https://logos-world.net/wp-content/uploads/2023/08/React-Logo.png" alt="NestJs" width=100> | <img src="https://nestjs.com/img/logo-small.svg" alt="NestJs" width=100> | <img src="https://d2ooyrflu7lhqd.cloudfront.net/exop_io_ece1e91d04.jpeg" alt="React Native Expo" width=100> | <img src="https://d2ooyrflu7lhqd.cloudfront.net/exop_io_ece1e91d04.jpeg" alt="React Native Expo" width=100> |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" width=100> |  <img src="https://logos-world.net/wp-content/uploads/2023/08/React-Logo.png" alt="NestJs" width=100> | <img src="https://nestjs.com/img/logo-small.svg" alt="NestJs" width=100> | <img src="https://d2ooyrflu7lhqd.cloudfront.net/exop_io_ece1e91d04.jpeg" alt="React Native Expo" width=100> |
 |:---:|:---:|:---:|:---:|
 
 
